@@ -1,0 +1,20 @@
+
+
+header {
+	background-color: GreenYellow;
+	font-size: 30px;
+}
+
+nav {
+	background-color: Fuchsia;
+	font-size: 20px;
+}
+
+section {
+	background-color: MediumBlue;
+}
+
+footer {
+	background-color: GoldenRod;
+	font-size: 35px;
+}
